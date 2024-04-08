@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: 모후모후 # the main title
 
-tagline: 대충 무언가 만들었다는 소식입니다. 잘 쓸 지는 모르겠지만 실력 향상에는 도움이 되겠지요. # it will display as the sub-title
+tagline: 낮잠 중 방해금지 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   언젠간 닷모에 TLD를 사고야 말 거야.
@@ -35,13 +35,13 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: 라온
-  email: example@domain.com # change to your email address
+  email: laonmofu@nekoplanet.xyz # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/laonmofu # change to your twitter homepage
     - https://github.com/laonmofu # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+    - https://nekoplanet.xyz/@mofu
     # - https://www.linkedin.com/in/username
 
 # Site Verification Settings
