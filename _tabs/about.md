@@ -16,6 +16,7 @@ order: 4
 
 **메신저**  
 [디스코드](https://discord.com/users/500864158187782144) / [텔레그램](https://t.me/laonmofu)   
+[이메일](mailto:username@domainname): mofu@laon.moe
 ​     
   
 **ActivityPub (Misskey)**  
